@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: นายจิรกิตต์ อรรถอิทธิรจน์
+# STUDENT ID: 670610681
