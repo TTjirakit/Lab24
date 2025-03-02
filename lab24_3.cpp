@@ -5,9 +5,11 @@ using namespace std;
 
 int count(int data[], int size){
 	set<int> uniqueNumbers;
+
 	for (int i = 0; i < size; i++) {
         uniqueNumbers.insert(data[i]);
     }
+	
 	return uniqueNumbers.size();
 }
 
